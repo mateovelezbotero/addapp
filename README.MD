@@ -1,0 +1,2 @@
+AddApp es una aplicación para realizar practicas basicas de sumas entre el 0 y el 10. La tecnologia en que se desarrollo es HTML, CSS, Bootstrap y Javascript.
+La aplicacion sera utilizada con niños de nivel primaria para la practica de las sumas.
