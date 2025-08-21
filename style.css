@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+background-color: beige;
+}
+header, main, footer{
+    padding: 20;
+    margin: 10;
+}
+header{
+    background-color: beige;
+}
+main{
+    background-color: cadetblue;
+}
+footer{
+    background-color: blue;
+}
